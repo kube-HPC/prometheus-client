@@ -9,7 +9,7 @@
   "author": "tal",
   "license": "ISC",
   "dependencies": {
-    "node-fetch": "^2.1.1",
+    "node-fetch": "^2.6.11",
     "qs": "^6.5.1",
     "url": "^0.11.0"
   },
